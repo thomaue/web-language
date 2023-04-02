@@ -1,7 +1,7 @@
 export const SocialLinks = () => {
     return (
         <section>
-            <h3>Mes réseaux sociaux</h3>
+            <h3>Mes réseaux sociaux :</h3>
 
             <ul>
                 <li><a href="https://github.com/thomaue">GitHub</a></li>
