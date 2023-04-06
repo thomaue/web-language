@@ -7,9 +7,6 @@ export const Home = () => {
     <div>
         <h1>WhyNotCode</h1>
             <p>this is a site under construction</p>
-        
-
-
     </div>
     );
 }

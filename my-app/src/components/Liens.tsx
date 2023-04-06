@@ -4,7 +4,7 @@ export const Liens = () => {
 
             <em><h1>Liens à garder :</h1></em>
             <br />
-            <h2>Langugage C :</h2>
+            <h2>Language C :</h2>
             <br />
             <h3>Notions :</h3>
 
