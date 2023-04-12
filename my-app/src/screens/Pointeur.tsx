@@ -10,7 +10,8 @@ import img7 from '../Images/mémoire3.jpg'
 export const Pointeur = () => {
     return (
         <div>
-            <h1>Les pointeurs : </h1>
+            
+            <h1 style={{color: "blueviolet"}}>Les pointeurs : </h1>
             <br />
             <h2>C'est quoi ?</h2>
             <p>
